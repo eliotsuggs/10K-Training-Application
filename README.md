@@ -1,3 +1,3 @@
-# 10K Training Plan Application
+# 10K Training Plan APP - Interactive
 
-This is a 10K Training Application designed to track progress through training for a 10K run.
+This is an Interactive 10K Training Application designed to track progress through training for a 10K run.
